@@ -1,0 +1,25 @@
+{
+  "name": "realms",
+  "version": "0.0.0",
+  "description": "Fullstack generation tool",
+  "main": "realms.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com//binarymax/realms.git"
+  },
+  "keywords": [
+    "generation",
+    "restlang",
+    "edda",
+    "app"
+  ],
+  "dependencies": {
+    "commander": "2.2.x",
+    "edda":"*"
+  },
+  "author": "Max Irwin",
+  "license": "MIT"
+}
