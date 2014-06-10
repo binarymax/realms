@@ -1,6 +1,6 @@
 {
   "name": "realms",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fullstack generation tool",
   "main": "realms.js",
   "scripts": {
